@@ -1,2 +1,2 @@
-# APPdev
+# TravelBuddy
 location based app
